@@ -37,3 +37,6 @@ yarn-debug.log*
 
 # Ignore Sublime settings
 *.sublime-workspace
+
+# Ignore IRB configuration
+.irbrc
